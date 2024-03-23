@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Designing
 - 📫 How to reach me:
 Email: mahdied2021@gmail.com
-LinkedIn: https://www.linkedin.com/in/mahdi-esmaeili-daraei/ 
+LinkedIn: https://www.linkedin.com/in/mahdidaraei/
 
 <!---
 MahdiEsmaeili/MahdiEsmaeili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
