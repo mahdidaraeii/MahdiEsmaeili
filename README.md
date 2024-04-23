@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahdiEsmaeili
 - 👀 I’m interested in anything related to technology
-- 🌱 I’m currently learning Web Designing
+- 🌱 I’m currently learning...
 - 📫 How to reach me:
 Email: mahdied2021@gmail.com
 LinkedIn: https://www.linkedin.com/in/mahdidaraei/
